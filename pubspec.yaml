@@ -26,6 +26,8 @@ dependencies:
   camera: ^0.5.6+3
   path_provider: ^1.4.0
   thumbnails:
+    git:
+      url: https://github.com/divyanshub024/Flutter_Thumbnails.git
   video_player: ^0.10.2+5
   esys_flutter_share: ^1.0.2
 
